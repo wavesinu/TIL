@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "9df7380c983a227e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f9b789eaca5046e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c67855ea0db13a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Development Methodology/DDD(Domain Driven Design).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12d203d98f175dcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "dffbf9c6d8137a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "713c5c30750db362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf06e613da73bff3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24dd25a3ace78e15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.00390243530273,
+    "collapsed": true
+  },
+  "right": {
+    "id": "19640879a2453fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76368818d02d7bd",
+        "type": "tabs",
+        "dimension": 22.89855072463768,
+        "children": [
+          {
+            "id": "b0dd83f52c9c5848",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Development Methodology/DDD(Domain Driven Design).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6cd96dc9c7048be6",
+        "type": "tabs",
+        "dimension": 37.874396135265705,
+        "children": [
+          {
+            "id": "3da5600741b98677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Development Methodology/DDD(Domain Driven Design).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba3881fd2ff1ce1f",
+        "type": "tabs",
+        "dimension": 39.227053140096615,
+        "children": [
+          {
+            "id": "b9c7ef72799ae914",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfd6ff237571426a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Development Methodology/DDD(Domain Driven Design).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "9c67855ea0db13a6",
+  "lastOpenFiles": [
+    "TIL/README.md",
+    "TIL",
+    "Computer Science/Development Methodology/TDD.md",
+    "Spring Boot/Exception/API Exception 처리.md",
+    "Database/B+Tree.md",
+    "Spring Boot/Exception",
+    "Database/B-Tree.md",
+    "Database/Indexing.md",
+    "Database/반정규화(De-nomalization).md",
+    "Database/함수 종속성(Functional Dependency).md",
+    "Database/정규화(Normalization).md",
+    "Database/BCNF.md",
+    "Pasted image 20240227155334.png",
+    "Database/RDBMS.md",
+    "Database/anomaly.md",
+    "CleanShot 2024-02-27 at 15.08.28@2x.png",
+    "CleanShot 2024-02-27 at 14.44.52@2x.png",
+    "CleanShot 2024-02-27 at 14.41.01@2x.png",
+    "Network/Restful API.md",
+    "Git",
+    "Network/DNS.md",
+    "Network/HTTP.md",
+    "Deployment/Kubernetes.md",
+    "Deployment/Docker.md",
+    "Deployment/Container.md",
+    "Deployment/Jenkins.md",
+    "Deployment/Github Actions.md",
+    "Cloud/AWS.md",
+    "Deployment",
+    "Cloud",
+    "Security/OWASP.md",
+    "Security/CORS.md",
+    "Security/HTTPS.md",
+    "Computer Science/Development Methodology",
+    "Security",
+    "Network",
+    "Spring Boot/Annotation/@GetMapping.md",
+    "Spring Boot/Annotation/@RequestMapping.md",
+    "Pasted image 20240222170518.png",
+    "Computer Science/Design Patterns",
+    "Computer Science/Data Structures",
+    "CleanShot 2024-02-18 at 21.44.40@2x.png",
+    "CleanShot 2024-02-18 at 21.41.28@2x.png",
+    "CleanShot 2024-02-18 at 21.39.58@2x.png",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "CleanShot 2024-02-03 at 13.14.41@2x.png",
+    "CleanShot 2024-01-28 at 13.29.58@2x.png"
+  ]
+}

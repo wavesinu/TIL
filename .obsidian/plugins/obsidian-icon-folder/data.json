@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxlKubernetes",
+      "RiCloudWindyFill",
+      "BoBxShieldQuarter",
+      "IbInternetBrowser",
+      "LiNetwork"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Algorithms": "RiGitPullRequestFill",
+  "Database": "RiDatabase2Fill",
+  "Spring Boot": "RiLeafFill",
+  "Java": "BoBxsCoffeeAlt",
+  "Computer Science": "RiArchiveDrawerFill",
+  "Computer Science/Data Structures": "RiBox2Fill",
+  "Computer Science/Design Patterns": "BoBxsWrench",
+  "Git": "RiGithubFill",
+  "Network": "IbInternetBrowser",
+  "Security": "BoBxShieldQuarter",
+  "Cloud": "RiCloudWindyFill",
+  "Deployment": "BoBxlKubernetes"
+}
