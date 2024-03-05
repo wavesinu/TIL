@@ -32,6 +32,6 @@ MSA는 API를 통해서만 상호작용할 수 있다. 즉, 마이크로 서비�
 
 ---
 ### 참고 자료
-[[MSA] MSA란 무엇인가? 개념 이해하기 (tistory.com)](https://wooaoe.tistory.com/57)
-[[MSA 개념 정립하기] MSA의 개념과 장단점 (tistory.com)](https://waspro.tistory.com/429)
-[마이크로 서비스 아키텍처 스타일 - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/architecture/guide/architecture-styles/microservices)
+- [[MSA] MSA란 무엇인가? 개념 이해하기 (tistory.com)](https://wooaoe.tistory.com/57)
+- [[MSA 개념 정립하기] MSA의 개념과 장단점 (tistory.com)](https://waspro.tistory.com/429)
+- [마이크로 서비스 아키텍처 스타일 - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/architecture/guide/architecture-styles/microservices)
